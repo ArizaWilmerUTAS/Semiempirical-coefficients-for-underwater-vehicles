@@ -10,8 +10,6 @@ Please notice that there is different version of the vehicle.
   <img src="7674-REMUS100.gif" width="350" title="hover text">
  </p>
 
-[[https://github.com/ArizaWilmerUTAS/Path-Following/sample.png|alt=sample]]
-
 ## Getting Started
 
 
