@@ -12,13 +12,19 @@ Please notice that there is different version of the vehicle.
 
 ## Getting Started
 
+Please download first https://www.mathworks.com/matlabcentral/fileexchange/62113-slice_stl_create_path-triangles-slice_height
 
+Run the script AddedMassCalcualtorRemus.m
 
+Check the variables created
 
 
 ## Referencing
 
 If you wish to reference this code please cite:
+
+
+If you find an error please let me know
 
 
 
