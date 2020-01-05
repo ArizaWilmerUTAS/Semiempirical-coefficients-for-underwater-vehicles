@@ -23,6 +23,7 @@ Check the variables created
 
 If you wish to reference this code please cite:
 
+W. Ariza Ramirez, Gaussian Processes applied to system identification, navigation and control of underwater vehicles, PhD Thesis, Australian Maritime College 2019
 
 If you find an error please let me know
 
